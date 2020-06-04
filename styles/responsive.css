@@ -20,6 +20,16 @@
     #page-home main{
         align-items: center;
     }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr 1fr 1fr;
+
+        /* gap: 15px; */
+    }
+
+    #page-search-results .cards {
+       height: 250px;
+    }
 }
 
 @media(max-width:1700px){
