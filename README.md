@@ -13,3 +13,31 @@
 
 ### DIA 3 - Continuação dos estilos e pequenas correções no código. 
 ![0 (1)](https://user-images.githubusercontent.com/54520187/83705509-8bd34d80-a5eb-11ea-84e2-bdc562d32122.jpeg)
+
+### DIA 4 - Atualizações conforme lista abaixo:
+
+<iframe width="560"height="315"src="https://www.youtube.com/embed/b5-R0T5jkc8"frameborder="0"allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"allowfullscreen></iframe>
+
+Estrutura de pastas do projeto
+Criação do servidor usando Nodejs
+Instalação dos Módulos (npm / nodemon/ express)
+Configuração do Servidor
+Criação de Rotas da aplicação 
+ - Requisição e Resposta
+ - Verbos HTTP (GET / POST)
+ - Tipos de envio de dados
+        Query Strings / Body
+Template Engine 
+ - Instalação nunjucks
+ - Rederizar
+ - Enviar dados para o html
+ - Usando Nunjucks
+    * include
+    * variables
+    * extends
+    * blocks
+    * if
+    * for
+ - Instalar extensão nunjucks-template nas extensões VSCode
+ - VSCode Icons
+
