@@ -39,9 +39,10 @@ main{
 
 main img{
     width: 100%;
-    height: 150px;
+    height: 350px;
 
-    border-radius: 8px 8px 0px 0px;
+    border-radius: 8px 8px 0px 0px;    
+   
 }
 
 main h4{
@@ -55,7 +56,12 @@ main .cards {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 
+    display: inline-block;    
+    justify-content: space-between;
+    align-items: center;
+
     gap: 24px;
+    height: 200px;
 }
 
 main .card img{
@@ -64,7 +70,8 @@ main .card img{
 
     object-fit: cover;
 
-    border-radius: 8px 8px 0px 0px;
+    /* Estilo personalizado*/
+    border-radius: 20px 0px 20px 0px;
 }
 
 main .card h1{
