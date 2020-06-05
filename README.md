@@ -18,7 +18,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b5-R0T5jkc8" frameborder="0" allowfullscreen></iframe>
 
-[![NLW](https://img.youtube.com/vi/https://www.youtube.com/embed/b5-R0T5jkc8.jpg)](https://www.youtube.com/embed/b5-R0T5jkc8)
+[![NLW](https://img.youtube.com/vi/b5-R0T5jkc8/0.jpg)](https://www.youtube.com/embed/b5-R0T5jkc8)
 
 Estrutura de pastas do projeto
 Criação do servidor usando Nodejs
