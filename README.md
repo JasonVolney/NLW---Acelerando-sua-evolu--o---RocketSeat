@@ -16,11 +16,9 @@
 
 ### DIA 4 - Atualizações conforme lista abaixo:
 
-<<<<<<< HEAD
-<iframe width="560"height="315"src="https://www.youtube.com/embed/b5-R0T5jkc8"frameborder="0"allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"allowfullscreen></iframe>
-=======
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b5-R0T5jkc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> d33c1d1e7d8b5b191097b3ddf864bc2b0bbe7693
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5-R0T5jkc8" frameborder="0" allowfullscreen></iframe>
+
+[![NLW](https://img.youtube.com/vi/https://www.youtube.com/embed/b5-R0T5jkc8.jpg)](https://www.youtube.com/embed/b5-R0T5jkc8)
 
 Estrutura de pastas do projeto
 Criação do servidor usando Nodejs
@@ -44,7 +42,3 @@ Template Engine
     * for
  - Instalar extensão nunjucks-template nas extensões VSCode
  - VSCode Icons
-<<<<<<< HEAD
-
-=======
->>>>>>> d33c1d1e7d8b5b191097b3ddf864bc2b0bbe7693
