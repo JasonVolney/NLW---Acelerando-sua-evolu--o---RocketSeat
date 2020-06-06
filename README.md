@@ -42,3 +42,5 @@ Template Engine
     * for
  - Instalar extensão nunjucks-template nas extensões VSCode
  - VSCode Icons
+
+DIA 5 - Incluídas novas funcionalidades e conexão com o Banco de Dados (SQlite3)
