@@ -20,27 +20,85 @@
 
 [![NLW](https://img.youtube.com/vi/b5-R0T5jkc8/0.jpg)](https://www.youtube.com/embed/b5-R0T5jkc8)
 
-Estrutura de pastas do projeto
-Criação do servidor usando Nodejs
-Instalação dos Módulos (npm / nodemon/ express)
-Configuração do Servidor
-Criação de Rotas da aplicação 
- - Requisição e Resposta
- - Verbos HTTP (GET / POST)
- - Tipos de envio de dados
-        Query Strings / Body
-Template Engine 
- - Instalação nunjucks
- - Rederizar
- - Enviar dados para o html
- - Usando Nunjucks
-    * include
-    * variables
-    * extends
-    * blocks
-    * if
-    * for
- - Instalar extensão nunjucks-template nas extensões VSCode
- - VSCode Icons
+- Programação WEB
+    - O que é programação?
+        - Ensinar computador
+            - Algoritmos
+                - [X]  Passo a passo
+                - [X]  Conjunto de Regras
+            - Lógica de Programação
+                - [X]  Maneira de Pensar
+            - Sintaxe
+                - [X]  Maneira correta de escrever
+
+    - Linguagem de programação
+        - [X]  Javascript
+- Configurar o ambiente de desenvolvimento
+- Front-end e [Back-end](https://www.notion.so/nextlevelweekstarter/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63)
+
+## 🌳 O projeto
+
+- [Ecoleta](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter))
+- [Icones](https://drive.google.com/file/d/1faqg6B_nlDEiatd7OA78sM-8GaD7ave3/view?usp=sharing)
+
+## 🏄🏽‍♂️ Introdução às tecnologias
+
+- HTML
+- CSS
+- Javascript
+    - [X]  constantes e variáveis
+    - [X]  tipos de dados
+    - [X]  objetos
+    - [X]  funções
+    - [X]  condições
+    - [X]  repetições
 
 DIA 5 - Incluídas novas funcionalidades e conexão com o Banco de Dados (SQlite3)
+
+
+https://www.notion.so/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63
+
+- Responsabilidades
+    - Receber pedidos do cliente
+    - Preparar os pedidos ( Regras de Negócio )
+    - Enviar respostas
+    - Lidar com dados da aplicação
+- Tecnologias
+    - Linguagem: **[Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)**
+    - Node.js ([https://nodejs.org](https://nodejs.org/en/))
+    - Git Bash ([https://gitforwindows.org](https://gitforwindows.org/))
+    - [Banco de dados](https://www.notion.so/nextlevelweekstarter/Banco-de-Dados-5486eedc84d245a289d6004d34597f22): [SQL](https://en.wikipedia.org/wiki/SQL)
+    - SQLite
+
+## 🏄🏽‍♂️ Bora Codar!
+
+- [X]  Estrutura de pastas do projeto
+- [X]  Criação do servidor
+    - [X]  Instalação dos módulos
+    - Configuração do servidor
+        - [X]  Criar e iniciar
+        - [X]  Página inicial
+        - [X]  Arquivos estáticos
+    - Rotas da aplicação
+        - [X]  Requisição e Resposta
+        - [X]  O que são verbos HTTP
+        - [X]  GET e POST
+        - [X]  Tipos de envio de dados
+            - [X]  Query Strings / Body
+            - [X]  Habilitar o express para utilizar o `req.body`
+    - Template Engine
+        - [X]  Instalar e configurar `nunjucks`
+        - [X]  Renderizar
+        - [X]  Enviar dados para o html
+        - [X]  Usando Nunjucks
+            - [X]  include
+            - [X]  variables
+            - [X]  extends
+            - [X]  block
+            - [X]  if
+            - [X]  for
+        - [X]  Instalar extensão `nunjucks-template` nas extensões VSCode
+    - Dados
+        - [X]  Enviando dados
+        - [X]  Recebendo dados
+        - [X]  Persistindo ( guardando ) banco de dados
